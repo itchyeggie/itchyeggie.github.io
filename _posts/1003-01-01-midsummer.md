@@ -12,7 +12,7 @@ Theatre play by Theatre NO99
 Direction - Art Direction: Ene-Liis Semper, Tiit Ojasoo  
 Conductor: Olari Elts  
 Light Artist: Petri Tuhkanen  
-Animation: Heta Jäälinoja, Äggie Lee Pak Yee  
+Animation: Heta Jäälinoja, Äggie Pak Yee Lee  
 Live mix: Maarja Pärsim  
 Animation live mix: Alyona Movko  
 Cameras: Jekaterina Abramova, Sanna Maria Rink  

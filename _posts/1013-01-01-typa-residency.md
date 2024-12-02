@@ -149,7 +149,7 @@ Cyanotype 難受之處:
 </head>
 <body>
   <div class="content">
-    <img src="./assets/images/typa/typa010c.png" alt="Full Width Image" class="full-width-image">
+    <img src="./assets/images/typa/typa011.png" alt="Full Width Image" class="full-width-image">
   </div>
 </body>
 </html>

@@ -6,7 +6,7 @@ title: Loodusvaatluste Maraton
 Promotional video for the Biodiversity data collection Loodusvaatluste maraton
 
 Client: TÜ Eesti Loodusmuuseum (Tartu University Nature Museum)  
-Director/Animation/Art Design: Äggie Lee Pak Yee  
+Director/Animation/Art Design: Äggie Pak Yee Lee  
 Year: 2021 & 2022
 
 Website: [Loodusvaatluste maraton](http://loodusfestival.ee/LVM) & [eBiodiversity](https://elurikkus.ee/)
