@@ -157,7 +157,7 @@ Cyanotype 難受之處:
 
 有待發掘和栽種：
 
-1. 如何做運動時避免眼睛疲勞和屁股疲勞?
+1. 如何做動畫時避免眼睛疲勞和屁股疲勞?
 2. 掃描器還是相機?
 3. Elements from Dance film, experimental fictions and poetic documentaries?
 4. 將重點放係 graphic art in communication 而非 printmaking?
