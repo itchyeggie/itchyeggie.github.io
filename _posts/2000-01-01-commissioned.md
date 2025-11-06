@@ -3,6 +3,8 @@ layout: post
 title: commissioned
 ---
 
+↳ [BOON by Gnome / Cover artist](./boon)  
+↳ [Candango Trio LP / Cover artist](./candango)  
 ↳ [Flow, animated film / Co-Artist](./flow)  
 ↳ [Nun or Never, animated film / Visual Researcher](./nun)  
 ↳ [Turtle Papa, animated film / Colorist](./turtle)  
