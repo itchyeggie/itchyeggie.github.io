@@ -1,0 +1,62 @@
+media:
+  - name: images
+    label: Images & Video
+    input: assets/images
+    # Use ./assets/images to match existing src="./assets/images/..."
+    output: ./assets/images
+    categories: [image, video]
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: _posts
+    # Jekyll post filenames (existing files already match this pattern)
+    filename: "{year}-{month}-{day}-{primary}.md"
+
+    view:
+      primary: title
+      fields: [title, img]
+
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+        hidden: true
+
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      # Optional "featured" image (matches `img:` front matter)
+      - name: img
+        label: Hover image
+        type: image
+        required: false
+        options:
+          media: images
+
+      # Main post content
+      - name: body
+        label: Body
+        type: rich-text
+        options:
+          media: images
+          
+  - name: social
+    label: Social links
+    type: file
+    path: _data/social.yml
+    fields:
+      - name: body
+        label: social.yml
+        type: code
+        options:
+          language: yaml
+
+settings:
+  hide: true
+  content:
+    merge: true
