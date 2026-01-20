@@ -1,7 +1,7 @@
 ---
 layout: post
 title: title to show a beautiful nun
-home: true
+home: false
 img: ./assets/images/nun/nun004.jpg
 ---
 # wow
