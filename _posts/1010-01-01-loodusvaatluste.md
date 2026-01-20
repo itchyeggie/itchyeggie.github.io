@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loodusvaatluste Maraton
+home: false
 ---
 
 Promotional video for the Biodiversity data collection Loodusvaatluste maraton

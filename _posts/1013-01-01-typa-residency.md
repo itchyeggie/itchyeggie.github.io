@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 〖 淺嚐：印藝與動畫之水魚交溶 〗
+home: false
 ---
 
 Notes on Artist Residency in TYPA Type and Paper Making Museum - 駐村筆記

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: commissioned
+home: true
 ---
 
 ↳ [BOON by Gnome / Cover artist](./boon)  

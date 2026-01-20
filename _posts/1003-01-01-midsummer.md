@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Midsummer Night's Dream
+home: false
 ---
 
 Theatre play by Theatre NO99

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NatGeo Channel
+home: false
 ---
 
 I worked as a Motion Graphic Designer for NGC/ NatGeoWild Channel in Hong Kong during 2012-2013 because I like watching animals… It was nice that I can work with a lot of precious and amazing footages, with very nice teammates and producers.

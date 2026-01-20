@@ -30,6 +30,11 @@ content:
         type: string
         required: true
 
+      - name: home
+        label: Show on homepage?
+        type: boolean
+        default: false
+
       # Optional "featured" image (matches `img:` front matter)
       - name: img
         label: Hover image
