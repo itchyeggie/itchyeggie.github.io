@@ -1,6 +1,7 @@
 {% if site.posts %}
 <ul class="rows">
-  {% for post in site.posts | where: "home", true %}
+  {% assign home_posts = site.posts | where: "home", true %} {% for post in
+  home_posts %}
   <li class="row__post">
     <a href="{{ site.url }}{{ post.url | relative_url }}">
       <div
