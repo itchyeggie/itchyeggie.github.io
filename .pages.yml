@@ -16,7 +16,7 @@ content:
 
     view:
       primary: title
-      fields: [title, img]
+      fields: [title, hover]
 
     fields:
       - name: layout
@@ -35,13 +35,15 @@ content:
         type: boolean
         default: false
 
-      # Optional "featured" image (matches `img:` front matter)
-      - name: img
-        label: Hover image
-        type: image
+      # Optional "featured" media (image or video, matches "hover" front matter)
+      - name: hover
+        label: Hover media
+        type: file
         required: false
         options:
           media: images
+          categories: [image, video]
+
 
       # Main post content
       - name: body

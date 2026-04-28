@@ -11,9 +11,18 @@
       </div>
     </a>
 
-    {% if post.img %}
-    <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}" />
-    {% endif %}
+    {% if post.hover %} {% if post.hover contains ".mp4" %}
+    <video
+      class="row__hover"
+      src="{{ post.hover }}"
+      autoplay
+      muted
+      loop
+      playsinline
+    ></video>
+    {% else %}
+    <img class="row__hover" src="{{ post.hover }}" alt="{{ post.title }}" />
+    {% endif %} {% endif %}
   </li>
   {% endfor %}
 </ul>
